@@ -21,13 +21,26 @@ The full analysis can be found [here](https://github.com/KennethLuczko/Social_Me
      <li>SQL</li>
      <li>Jupyter Notebook</li>
      <li>Google Trends</li>
+     <li>Excel</li>
 </ul>
+
 <hr>
+
+<h4>Python</h4>
 <p align="center">
   <img src="https://i.imgur.com/nkfeknB.png" width="100%">
   <img src="https://i.imgur.com/H7vaYL4.png" width="100%">
    <hr>
   <img src="https://i.imgur.com/xPvcOdz.png" width="100%"> 
   <img src="https://i.imgur.com/H7vaYL4.png" width="100%">
+</p>
+<hr>
+
+<h4>Excel</h4>
+<p align="center">
+  <img src="https://i.imgur.com/FF5I0Ca.png" width="100%">
+  <img src="https://i.imgur.com/5tBKVCs.png" width="100%">
+   <hr>
+  <img src="https://i.imgur.com/x8KdhmQ.png" width="100%"> 
 </p>
 
