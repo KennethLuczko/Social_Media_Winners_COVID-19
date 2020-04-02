@@ -6,7 +6,6 @@ The full analysis can be found [here](https://github.com/KennethLuczko/Social_Me
 
 <p> This analysis will provide you visuals which will allow you to see google search trend growth between all of the listed social media platform, as well as their relationship with COVID-19. </p>
 
-
 <h5>Created with:</h5>
 <ul>
     <li>Python
@@ -23,3 +22,12 @@ The full analysis can be found [here](https://github.com/KennethLuczko/Social_Me
      <li>Jupyter Notebook</li>
      <li>Google Trends</li>
 </ul>
+<hr>
+<p align="center">
+  <img src="https://i.imgur.com/nkfeknB.png" width="100%">
+  <img src="https://i.imgur.com/H7vaYL4.png" width="100%">
+   <hr>
+  <img src="https://i.imgur.com/xPvcOdz.png" width="100%"> 
+  <img src="https://i.imgur.com/H7vaYL4.png" width="100%">
+</p>
+
