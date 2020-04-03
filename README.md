@@ -26,8 +26,8 @@ The full analysis can be found [here](https://github.com/KennethLuczko/Social_Me
 
 <hr>
 
-<h4>Python</h4>
 <p align="center">
+    <h4>Python</h4>
   <img src="https://i.imgur.com/nkfeknB.png" width="100%">
   <img src="https://i.imgur.com/H7vaYL4.png" width="100%">
    <hr>
@@ -36,8 +36,8 @@ The full analysis can be found [here](https://github.com/KennethLuczko/Social_Me
 </p>
 <hr>
 
-<h4>Excel</h4>
 <p align="center">
+    <h4>Excel</h4>
   <img src="https://i.imgur.com/FF5I0Ca.png" width="100%">
   <img src="https://i.imgur.com/5tBKVCs.png" width="100%">
    <hr>
